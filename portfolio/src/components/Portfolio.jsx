@@ -1,22 +1,13 @@
 import React from "react";
+import '../index.css';
+import './Portfolio.css'
 
 
-
-const styles = {
-
-}
-
-
-
-
-
-//add css into this function
-//style={styles.name}
 const Portfolio = () => {
 
     
     return (
-        <div>Portfolio</div>
+        <section id="portfolio"> Portfolio </section>
     )
 }
 

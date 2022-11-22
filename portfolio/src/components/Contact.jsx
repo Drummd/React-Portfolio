@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../index.css';
 
 
 const styles = {
@@ -16,7 +16,7 @@ const Contact = () => {
 
     
     return (
-        <div>About</div>
+        <section id="contact"> Contact </section>
     )
 }
 
