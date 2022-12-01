@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.07ff2e80.css",
+    "main.js": "/React-Portfolio/static/js/main.754c86f7.js",
+    "static/media/—Pngtree—full matte grain texture flare_978975.jpg": "/React-Portfolio/static/media/—Pngtree—full matte grain texture flare_978975.be8c74dc64d4d36550c6.jpg",
+    "static/media/SageSeer.png": "/React-Portfolio/static/media/SageSeer.024017ae9774714743a1.png",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.d98e47a0aa689a6bc968.pdf",
+    "static/media/IMG_5338.jpg": "/React-Portfolio/static/media/IMG_5338.9038a001078ebea18878.jpg",
+    "static/media/FlickGenie.png": "/React-Portfolio/static/media/FlickGenie.d9c9cc4ce1e2e3ef22b0.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.07ff2e80.css.map": "/React-Portfolio/static/css/main.07ff2e80.css.map",
+    "main.754c86f7.js.map": "/React-Portfolio/static/js/main.754c86f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ff2e80.css",
+    "static/js/main.754c86f7.js"
+  ]
+}
