@@ -27,3 +27,8 @@ nav a.active {
     background: var(--color-bg);
     color: var(--color-light)
 }
+
+.nav-tabs {
+    padding: 2%;
+
+}

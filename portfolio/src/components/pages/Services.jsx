@@ -1,5 +1,5 @@
 import React from "react";
-import '../index.css';
+import '../../index.css';
 import './Services.css'
 import {BiCheck} from 'react-icons/bi'
 
@@ -20,15 +20,15 @@ const Services = () => {
                     <ul>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Ensure that the end user experiences the desired outcome.</p>
                         </li>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Proper user interaction.</p>
                         </li>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Interactive experience throughout the site.</p>
                         </li>
                     </ul>
                 </article>
@@ -39,15 +39,15 @@ const Services = () => {
                     <ul>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Server Managment</p>
                         </li>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Software Maintenance</p>
                         </li>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Technical Support</p>
                         </li>
                     </ul>
                 </article>
@@ -58,15 +58,15 @@ const Services = () => {
                     <ul>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Creative Ideas</p>
                         </li>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>An  understanding of SEO services</p>
                         </li>
                         <li className="service_list">
                             <BiCheck className="service_list-icon"/>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Front/Back end synchronicity</p>
                         </li>
                     </ul>
                 </article>

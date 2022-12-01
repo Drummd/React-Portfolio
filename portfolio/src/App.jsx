@@ -1,31 +1,31 @@
 import React from "react";
-import Header from "./components/Header";
-import Nav from "./components/Nav";
-import About from "./components/About";
-import Experience from "./components/Experience";
-import Services from "./components/Services";
-import Portfolio from "./components/Portfolio";
-import Testimonial from "./components/Testimonial";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+// import Header from "./components/pages/Header";
+// import Nav from "./components/Nav";
+// import About from "./components/pages/About";
+// import Experience from "./components/pages/Experience";
+// import Services from "./components/pages/Services";
+// import Portfolio from "./components/pages/Portfolio";
+// import Contact from "./components/pages/Contact";
+// import Footer from "./components/pages/Footer";
 
+import PortfolioContainer from "./components/PortfolioContainer";
 
+const App = () => <PortfolioContainer />;
 
-const App = () => {
+// const App = () => {
 
-    return (
-        <>
-            <Header />
-            <Nav />
-            <About />
-            <Experience />
-            <Services />
-            <Portfolio />
-            <Testimonial />
-            <Contact />
-            <Footer />
-        </>
-    )
-}
+//     return (
+//         <>
+//             <Header />
+//             <Nav />
+//             <About />
+//             <Experience />
+//             <Services />
+//             <Portfolio />
+//             <Contact />
+//             <Footer />
+//         </>
+//     )
+// }
 
 export default App

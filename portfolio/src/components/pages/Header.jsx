@@ -1,10 +1,10 @@
 import React from "react";
-import CV from '../assets/cv.pdf'
-//import ME from '../assets/sasuke2.jpg'
+import Resume from '../../assets/Resume.pdf'
 import { BsLinkedin } from 'react-icons/bs'
 import { BsGithub } from 'react-icons/bs'
-import '../index.css'
+import '../../index.css'
 import './Header.css'
+import {BsStackOverflow} from 'react-icons/bs'
 
 const styles = { 
 
@@ -49,13 +49,14 @@ const Header = () => {
             <h5 className="text-light"> Fullstack Developer</h5>
 
             <div style={styles.cta} className="cta">
-                <a href={CV} download className="btn">Download CV</a>
+                <a href={Resume} download className="btn">Resume</a>
                 <a href="#Contact" className="btn btn-primary">Let's Talk</a>
 
             </div>
             <div style={styles.header_socials} className="header_socials">
                 <a href="https://www.linkedin.com/in/dalton-drumm-57aba91ba/" target="_blank"> <BsLinkedin /> </a>
-                <a href="https://github.com" target="_blank"> <BsGithub /> </a>
+                <a href="https://github.com/Drummd" target="_blank"> <BsGithub /> </a>
+                <a href="https://stackoverflow.com/users/19277759/dalton-drumm" target='_blank'> <BsStackOverflow/> </a>
             </div>
             <a href="#Contact" className="scroll__down">Scroll Down</a>
            

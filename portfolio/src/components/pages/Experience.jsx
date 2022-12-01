@@ -1,5 +1,5 @@
 import React from "react";
-import '../index.css'
+//import '../index.css'
 import './Experience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
 
@@ -101,7 +101,7 @@ const Experience = () => {
                     <article className="experience_details">
                         <BsPatchCheckFill className="experience_details-icon"/>
                         <div>
-                            <h4>Python</h4>
+                            <h4>Graph Ql</h4>
                             <small className="text-light">Experienced</small>
                         </div>    
                     </article>
