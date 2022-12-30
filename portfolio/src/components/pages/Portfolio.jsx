@@ -3,6 +3,7 @@ import '../../index.css';
 import './Portfolio.css'
 import P1 from '../../assets/FlickGenie.png'
 import P2 from '../../assets/SageSeer.png'
+import P3 from '../../assets/TB.png'
 
 // copy <article> => </article> for a new project install
 //refer to css portfolio_container and adjust the grid template columns to add extra project 
@@ -33,6 +34,16 @@ const Portfolio = () => {
                         <div className="portfolio_item-cta">
                             <a href="https://github.com/Drummd?tab=repositories" className="btn">Github</a>
                             <a href="https://sage-the-seer.herokuapp.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+                        </div>
+                </article>
+                <article className="portfolio_item">
+                    <div className="portfolio_item-image">
+                        <img src={P3} alt=""/>
+                    </div>    
+                        <h3>Theoretical Battlegrounds</h3>
+                        <div className="portfolio_item-cta">
+                            <a href="https://github.com/Drummd/Theoretical-Battles" className="btn">Github</a>
+                            <a href="https://theoretical-battlegrounds.herokuapp.com/" className="btn btn-primary" target='_blank'>Live Demo</a>
                         </div>
                 </article>
             </div>
